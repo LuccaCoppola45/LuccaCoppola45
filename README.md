@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ¡Hola! Soy Lucca 👋
 
-Soy estudiante de **2.º año de Programación**. Me apasiona el desarrollo Backend y la arquitectura de datos. Actualmente estoy enfocado en profundizar mis conocimientos en el ecosistema de Java y la optimización de bases de datos.
+Soy estudiante de **2.º año de Programación**.Me considero una persona altamente proactiva, con una marcada vocación por el aprendizaje continuo y la resolución de problemas complejos. Disfruto profundamente del proceso de diseño de software y busco constantemente superar mis capacidades técnicas y Disfruto del desarrollo en equipo utilizando Git y GitHub como pilares de colaboración.
 
 ---
 
