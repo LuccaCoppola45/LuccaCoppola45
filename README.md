@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ¡Hola! Soy Lucca 👋
 
-Soy estudiante de **2.º año de Programación**.Me considero una persona altamente proactiva, con una marcada vocación por el aprendizaje continuo y la resolución de problemas complejos. Disfruto profundamente del proceso de diseño de software y busco constantemente superar mis capacidades técnicas y Disfruto del desarrollo en equipo utilizando Git y GitHub como pilares de colaboración.
+Soy estudiante de **2.º año de Programación** y tengo 20 años. Me considero una persona altamente proactiva, con una marcada vocación por el aprendizaje continuo y la resolución de problemas complejos. Disfruto profundamente del proceso de diseño de software y busco constantemente superar mis capacidades técnicas y Disfruto del desarrollo en equipo utilizando Git y GitHub como pilares de colaboración.
 
 ---
 
